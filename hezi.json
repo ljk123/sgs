@@ -1,0 +1,67 @@
+[
+    {
+        "name": "xxx盒子",
+        "total": 20000,
+        "desc": [{
+            "txt": "xxxxxxxxxx",
+            "isRed": false
+          },
+          {
+            "txt": "xxxxxxxxxx",
+            "isRed": true
+          },
+          {
+            "txt": "xxxxxxxxxx",
+            "isRed": false
+          }
+        ],
+        "mustPrize": [{
+            "name": "将魂",
+            "number": 2,
+            "icon": "/static/600012.png"
+          },
+          {
+            "name": "雁翎",
+            "number": 20,
+            "icon": "/static/620038.png"
+          },
+          {
+            "name": "心愿积分",
+            "number": 1,
+            "icon": "/static/620281.png"
+          }
+        ],
+        "prize": [{
+            "name": "谋关羽",
+            "number": 1,
+            "isxiyou": true, 
+            "qz": 1,
+            "icon": "https://www.sanguosha.cn/storage/uploads/images/pic_index/697.png"
+          },
+          {
+            "name": "菜篮子",
+            "number": 2,
+            "qz": 1000,
+            "icon": "/static/620046.png"
+          },
+          {
+            "name": "点将卡",
+            "number": 2,
+            "qz": 1000,
+            "icon": "/static/600006.png"
+          },
+          {
+            "name": "欢乐豆",
+            "number": 50,
+            "qz": 1000,
+            "icon": "/static/620042.png"
+          },
+          {
+            "name": "其他",
+            "number": 1,
+            "qz": 20005,
+            "icon": "/static/620428.png"
+          }
+        ]
+      }
+]
