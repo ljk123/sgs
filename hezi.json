@@ -1,10 +1,11 @@
 [
     {
         "name": "庆典礼盒",
-        "tips": "2024年庆典礼盒活动首发，后续请关注每周限时活动",
+        "tips": "2024年假日活动首发，后续请关注每周限时活动",
+        "onsale": 1,
         "total": 20000,
-        "onsale": true,
         "price": 200,
+        "dw": "庆典礼盒",
         "mustPrize": [
             {
                 "name": "将魂",
@@ -38,11 +39,11 @@
                 "icon": "\/static\/620150.png"
             },
             {
-                "name": "谋陆逊",
+                "name": "张奋",
                 "number": 1,
                 "isxiyou": 1,
                 "qz": 3,
-                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/9ef35024ed06fe138e2b65ea523ff914.png"
+                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/9b48055c941e3f61f7a8283eacd4d672.png"
             },
             {
                 "name": "谯周",
@@ -52,7 +53,7 @@
                 "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/pic_index\/579.png"
             },
             {
-                "name": "命里通宣*谯周",
+                "name": "龙生九子*关羽",
                 "number": 1,
                 "isxiyou": 1,
                 "qz": 15,
@@ -73,10 +74,16 @@
                 "icon": "\/static\/620150.png"
             },
             {
-                "name": "彭羕",
+                "name": "张奋碎片",
                 "number": 1,
                 "qz": 100,
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/617.png"
+                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/9b48055c941e3f61f7a8283eacd4d672.png"
+            },
+            {
+                "name": "界张嶷",
+                "number": 1,
+                "qz": 100,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/685.png"
             },
             {
                 "name": "菜篮子",
@@ -141,7 +148,7 @@
             {
                 "name": "菜篮子",
                 "number": 2,
-                "qz": 1355,
+                "qz": 1255,
                 "icon": "\/static\/620046.png"
             }
         ]
