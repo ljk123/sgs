@@ -12,126 +12,67 @@
                 "number": 1,
                 "isxiyou": 1,
                 "qz": 1,
-                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/pic_index\/697.png"
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
             },
             {
-                "name": "史诗宝珠",
-                "number": 66,
-                "isxiyou": 1,
-                "qz": 1,
-                "icon": "\/static\/620150.png"
-            },
-            {
-                "name": "张奋",
+                "name": "龙生九子*甘宁",
                 "number": 1,
                 "isxiyou": 1,
-                "qz": 3,
-                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/9b48055c941e3f61f7a8283eacd4d672.png"
-            },
-            {
-                "name": "谯周",
-                "number": 1,
-                "isxiyou": 1,
-                "qz": 10,
-                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/pic_index\/579.png"
-            },
-            {
-                "name": "龙生九子*关羽",
-                "number": 1,
-                "isxiyou": 1,
-                "qz": 15,
+                "qz": 2,
                 "icon": "\/static\/620138.png"
             },
             {
-                "name": "将魂",
+                "name": "吴班",
+                "number": 1,
+                "qz": 10,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/756.png"
+            },
+            {
+                "name": "雁翎",
                 "number": 1000,
-                "isxiyou": 1,
-                "qz": 15,
-                "icon": "\/static\/600012.png"
-            },
-            {
-                "name": "史诗宝珠",
-                "number": 1,
-                "isxiyou": 1,
-                "qz": 100,
-                "icon": "\/static\/620150.png"
-            },
-            {
-                "name": "张奋碎片",
-                "number": 1,
-                "qz": 100,
-                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/9b48055c941e3f61f7a8283eacd4d672.png"
-            },
-            {
-                "name": "界张嶷",
-                "number": 1,
-                "qz": 100,
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/685.png"
-            },
-            {
-                "name": "菜篮子",
-                "number": 99,
-                "qz": 200,
-                "icon": "\/static\/620046.png"
-            },
-            {
-                "name": "史诗宝珠碎片",
-                "number": 1,
-                "qz": 200,
-                "icon": "\/static\/620149.png"
-            },
-            {
-                "name": "招募令",
-                "number": 1,
-                "qz": 1000,
-                "icon": "\/static\/600008.png"
+                "qz": 25,
+                "icon": "\/static\/620038.png"
             },
             {
                 "name": "雁翎甲",
                 "number": 1,
-                "qz": 1000,
+                "qz": 50,
                 "icon": "\/static\/600020.png"
             },
             {
                 "name": "进阶丹",
-                "number": 2,
-                "qz": 1000,
+                "number": 1,
+                "qz": 150,
                 "icon": "\/static\/620039.png"
             },
             {
-                "name": "点将卡",
-                "number": 2,
-                "qz": 3000,
-                "icon": "\/static\/600006.png"
-            },
-            {
                 "name": "手气卡",
-                "number": 2,
-                "qz": 5000,
+                "number": 1,
+                "qz": 1500,
                 "icon": "\/static\/600003.png"
             },
             {
                 "name": "换将卡",
-                "number": 2,
-                "qz": 5000,
+                "number": 1,
+                "qz": 1500,
                 "icon": "\/static\/600007.png"
             },
             {
                 "name": "欢乐豆",
-                "number": 50,
-                "qz": 1000,
+                "number": 10,
+                "qz": 500,
                 "icon": "\/static\/620042.png"
             },
             {
                 "name": "史诗体验卡",
                 "number": 1,
-                "qz": 1000,
+                "qz": 500,
                 "icon": "\/static\/620153.png"
             },
             {
                 "name": "菜篮子",
                 "number": 2,
-                "qz": 1255,
+                "qz": 762,
                 "icon": "\/static\/620046.png"
             }
         ]
