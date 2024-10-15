@@ -744,5 +744,146 @@
                 "icon": "\/static\/620046.png"
             }
         ]
+    },
+    {
+        "name": "周年礼盒",
+        "tips": "2024年周年庆活动首发，后续请关注每周限时活动",
+        "onsale": 0,
+        "total": 10000,
+        "price": 100,
+        "dw": "周年礼盒",
+        "mustPrize": [
+            {
+                "name": "将魂",
+                "number": 1,
+                "icon": "\/static\/600012.png"
+            },
+            {
+                "name": "雁翎",
+                "number": 10,
+                "icon": "\/static\/620038.png"
+            },
+            {
+                "name": "心愿积分",
+                "number": 1,
+                "icon": "\/static\/620281.png"
+            }
+        ],
+        "prize": [
+            {
+                "name": "曹髦",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 1,
+                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/964aa233ac9ea4375baa593a13fd8f55.png"
+            },
+            {
+                "name": "史诗宝珠",
+                "number": 33,
+                "isxiyou": 1,
+                "qz": 1,
+                "icon": "\/static\/620150.png"
+            },
+            {
+                "name": "龙生九子*曹植",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 5,
+                "icon": "\/static\/620138.png"
+            },
+            {
+                "name": "龙生九子*曹丕",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 5,
+                "icon": "\/static\/620138.png"
+            },
+            {
+                "name": "将魂",
+                "number": 1000,
+                "isxiyou": 1,
+                "qz": 5,
+                "icon": "\/static\/600012.png"
+            },
+            {
+                "name": "史诗宝珠",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 25,
+                "icon": "\/static\/620150.png"
+            },
+            {
+                "name": "界朱治",
+                "number": 1,
+                "qz": 25,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/683.png"
+            },
+            {
+                "name": "菜篮子",
+                "number": 99,
+                "qz": 50,
+                "icon": "\/static\/620046.png"
+            },
+            {
+                "name": "史诗宝珠碎片",
+                "number": 1,
+                "qz": 50,
+                "icon": "\/static\/620149.png"
+            },
+            {
+                "name": "招募令",
+                "number": 1,
+                "qz": 250,
+                "icon": "\/static\/600008.png"
+            },
+            {
+                "name": "雁翎甲",
+                "number": 1,
+                "qz": 250,
+                "icon": "\/static\/600020.png"
+            },
+            {
+                "name": "进阶丹",
+                "number": 2,
+                "qz": 250,
+                "icon": "\/static\/620039.png"
+            },
+            {
+                "name": "点将卡",
+                "number": 1,
+                "qz": 1000,
+                "icon": "\/static\/600006.png"
+            },
+            {
+                "name": "手气卡",
+                "number": 2,
+                "qz": 3000,
+                "icon": "\/static\/600003.png"
+            },
+            {
+                "name": "换将卡",
+                "number": 2,
+                "qz": 3000,
+                "icon": "\/static\/600007.png"
+            },
+            {
+                "name": "欢乐豆",
+                "number": 22,
+                "qz": 500,
+                "icon": "\/static\/620042.png"
+            },
+            {
+                "name": "史诗体验卡",
+                "number": 1,
+                "qz": 500,
+                "icon": "\/static\/620153.png"
+            },
+            {
+                "name": "菜篮子",
+                "number": 2,
+                "qz": 1083,
+                "icon": "\/static\/620046.png"
+            }
+        ]
     }
 ]
