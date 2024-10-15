@@ -1623,5 +1623,159 @@
                 "icon": "\/static\/620046.png"
             }
         ]
+    },
+    {
+        "name": "中秋礼盒",
+        "tips": "2023年中秋活动首发，后续请关注每周限时活动",
+        "onsale": 0,
+        "total": 20000,
+        "price": 200,
+        "mustPrize": [
+            {
+                "name": "将魂",
+                "number": 2,
+                "icon": "\/static\/600012.png"
+            },
+            {
+                "name": "雁翎",
+                "number": 20,
+                "icon": "\/static\/620038.png"
+            },
+            {
+                "name": "心愿积分",
+                "number": 1,
+                "icon": "\/static\/620281.png"
+            }
+        ],
+        "prize": [
+            {
+                "name": "界沮授",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 1,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/604.png"
+            },
+            {
+                "name": "史诗宝珠",
+                "number": 66,
+                "isxiyou": 1,
+                "qz": 1,
+                "icon": "\/static\/620150.png"
+            },
+            {
+                "name": "谋孙权",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 3,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/660.png"
+            },
+            {
+                "name": "花鬘",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 10,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/584.png"
+            },
+            {
+                "name": "兔年中秋*孙权动态包",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 15,
+                "icon": "\/static\/620138.png"
+            },
+            {
+                "name": "兔年中秋*孙策动态包",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 15,
+                "icon": "\/static\/620138.png"
+            },
+            {
+                "name": "将魂",
+                "number": 1000,
+                "isxiyou": 1,
+                "qz": 15,
+                "icon": "\/static\/600012.png"
+            },
+            {
+                "name": "史诗宝珠",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 100,
+                "icon": "\/static\/620150.png"
+            },
+            {
+                "name": "界张嶷",
+                "number": 1,
+                "qz": 100,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/685.png"
+            },
+            {
+                "name": "菜篮子",
+                "number": 99,
+                "qz": 200,
+                "icon": "\/static\/620046.png"
+            },
+            {
+                "name": "史诗宝珠碎片",
+                "number": 1,
+                "qz": 200,
+                "icon": "\/static\/620149.png"
+            },
+            {
+                "name": "招募令",
+                "number": 1,
+                "qz": 1000,
+                "icon": "\/static\/600008.png"
+            },
+            {
+                "name": "雁翎甲",
+                "number": 1,
+                "qz": 1000,
+                "icon": "\/static\/600020.png"
+            },
+            {
+                "name": "进阶丹",
+                "number": 2,
+                "qz": 1000,
+                "icon": "\/static\/620039.png"
+            },
+            {
+                "name": "点将卡",
+                "number": 2,
+                "qz": 3000,
+                "icon": "\/static\/600006.png"
+            },
+            {
+                "name": "手气卡",
+                "number": 2,
+                "qz": 5000,
+                "icon": "\/static\/600003.png"
+            },
+            {
+                "name": "换将卡",
+                "number": 2,
+                "qz": 5000,
+                "icon": "\/static\/600007.png"
+            },
+            {
+                "name": "欢乐豆",
+                "number": 50,
+                "qz": 1000,
+                "icon": "\/static\/620042.png"
+            },
+            {
+                "name": "史诗体验卡",
+                "number": 1,
+                "qz": 1000,
+                "icon": "\/static\/620153.png"
+            },
+            {
+                "name": "菜篮子",
+                "number": 2,
+                "qz": 1340,
+                "icon": "\/static\/620046.png"
+            }
+        ]
     }
 ]
