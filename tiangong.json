@@ -54,61 +54,61 @@
                 "name": "招募令",
                 "number": 1,
                 "qz": 200,
-                "icon": "/static/0.png"
+                "icon": "/static/600008.png"
             },
             {
                 "name": "雁翎",
                 "number": 888,
                 "qz": 150,
-                "icon": "/static/0.png"
+                "icon": "/static/620038.png"
             },
             {
                 "name": "将魂",
                 "number": 88,
                 "qz": 220,
-                "icon": "/static/0.png"
+                "icon": "/static/600012.png"
             },
             {
                 "name": "雁翎甲",
                 "number": 1,
                 "qz": 400,
-                "icon": "/static/0.png"
+                "icon": "/static/600020.png"
             },
             {
                 "name": "进阶丹",
                 "number": 1,
                 "qz": 500,
-                "icon": "/static/0.png"
+                "icon": "/static/620039.png"
             },
             {
                 "name": "欢乐豆",
                 "number": 88,
                 "qz": 1000,
-                "icon": "/static/0.png"
+                "icon": "/static/620042.png"
             },
             {
                 "name": "换将卡",
                 "number": 2,
                 "qz": 1500,
-                "icon": "/static/0.png"
+                "icon": "/static/600007.png"
             },
             {
                 "name": "手气卡",
                 "number": 2,
                 "qz": 1550,
-                "icon": "/static/0.png"
+                "icon": "/static/600003.png"
             },
             {
                 "name": "银币",
                 "number": 188,
                 "qz": 1900,
-                "icon": "/static/0.png"
+                "icon": "/static/600019.png"
             },
             {
                 "name": "菜篮子",
                 "number": 2,
                 "qz": 2550,
-                "icon": "/static/0.png"
+                "icon": "/static/620046.png"
             }
         ]
     }
