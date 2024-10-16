@@ -156,7 +156,7 @@
         ]
     },
     {
-        "name": "asd",
+        "name": "开学季福袋",
         "icon": "\/static\/620421.png",
         "onsale": 0,
         "total": 5000,
@@ -171,17 +171,17 @@
                 "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
             },
             {
-                "name": "龙生九子*甘宁",
+                "name": "炜晔矅世*张温",
                 "number": 1,
                 "isxiyou": 1,
                 "qz": 2,
                 "icon": "\/static\/620138.png"
             },
             {
-                "name": "吴班",
+                "name": "张温",
                 "number": 1,
                 "qz": 10,
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/756.png"
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/577.png"
             },
             {
                 "name": "雁翎",
