@@ -1,0 +1,87 @@
+[
+    {
+        "name": "庆典福袋",
+        "icon": "\/static\/620421.png",
+        "onsale": 1,
+        "total": 10000,
+        "price": 100,
+        "mustPrize": [],
+        "prize": [
+            {
+                "name": "精品武将",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 15,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            },
+            {
+                "name": "史诗皮肤",
+                "number": 1,
+                "isxiyou": 1,
+                "qz": 15,
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            },
+            {
+                "name": "招募令",
+                "number": 1,
+                "qz": 200,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "雁翎",
+                "number": 888,
+                "qz": 150,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "将魂",
+                "number": 88,
+                "qz": 220,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "雁翎甲",
+                "number": 1,
+                "qz": 400,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "进阶丹",
+                "number": 1,
+                "qz": 500,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "欢乐豆",
+                "number": 88,
+                "qz": 1000,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "换将卡",
+                "number": 2,
+                "qz": 1500,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "手气卡",
+                "number": 2,
+                "qz": 1550,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "银币",
+                "number": 188,
+                "qz": 1900,
+                "icon": "/static/0.png"
+            },
+            {
+                "name": "菜篮子",
+                "number": 2,
+                "qz": 2550,
+                "icon": "/static/0.png"
+            }
+            
+        ]
+    }
+]
