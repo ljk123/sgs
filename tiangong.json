@@ -7,28 +7,34 @@
         "price": 100,
         "jackpot": [
             {
-                "name": "谋周瑜",
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-            },
-            {
-                "name": "谋周瑜",
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-            },
-            {
-                "name": "谋周瑜",
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-            },
-            {
-                "name": "谋周瑜",
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-            },
-            {
-                "name": "谋周瑜",
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-            },
-            {
-                "name": "谋周瑜",
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                "hero": [
+                    {
+                        "name": "谋周瑜",
+                        "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                    },
+                    {
+                        "name": "谋周瑜",
+                        "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                    },
+                    {
+                        "name": "谋周瑜",
+                        "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                    }
+                ],
+                "skin": [
+                    {
+                        "name": "谋周瑜",
+                        "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                    },
+                    {
+                        "name": "谋周瑜",
+                        "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                    },
+                    {
+                        "name": "谋周瑜",
+                        "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                    }
+                ]
             }
         ],
         "prize": [
@@ -106,7 +112,6 @@
                 "qz": 2550,
                 "icon": "/static/0.png"
             }
-            
         ]
     }
 ]
