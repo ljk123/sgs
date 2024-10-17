@@ -130,7 +130,7 @@
             {
                 "name": "界朱恒",
                 "type": "hero",
-                "icon": "https:\/\/www.sanguosha.cn\/storage\/uploads\/images\/75500.jpg"
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/char\/684/png"
             },
             {
                 "name": "严象",
@@ -159,14 +159,14 @@
                 "number": 1,
                 "isxiyou": 1,
                 "qz": 15,
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                "icon": "/static/corridorInDream_07.png"
             },
             {
                 "name": "史诗皮肤",
                 "number": 1,
                 "isxiyou": 1,
                 "qz": 15,
-                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+                "icon": "/static/corridorInDream_03.png"
             },
             {
                 "name": "招募令",
