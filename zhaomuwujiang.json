@@ -214,7 +214,7 @@
             "name": "陈宫",
             "group": 2,
             "qz": 102,
-            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/153.png"
         },
         {
             "name": "法正",
@@ -1328,24 +1328,18 @@
             "group": 19,
             "qz": 9,
             "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/374.png"
-        },
-
-
-
-
-
-        
-        
-        
-        
-        
-        
-        
-        {
-            "name": "————",
-            "group": 2,
-            "qz": 1,
-            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
         }
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
     ]
 }
