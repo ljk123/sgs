@@ -474,6 +474,861 @@
             "qz": 468,
             "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
         },
+        {
+            "name": "袁术",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界曹操",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界甘宁",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界黄盖",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界周瑜",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界大乔",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界陆逊",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界司马懿",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界夏侯惇",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界张辽",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界华佗",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界刘备",
+            "group": 7,
+            "qz": 724,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "SP关羽",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "马良",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "程普",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "韩当",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "乐进",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "文聘",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "SP姜维",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "关兴张苞",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "廖化",
+            "group": 8,
+            "qz": 613,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "诸葛诞",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+
+        {
+            "name": "曹真",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "韩浩史涣",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "陈群",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "吴懿",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "周仓",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "张松",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "孙鲁班",
+            "group": 9,
+            "qz": 919,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "朱桓",
+            "group": 10,
+            "qz": 416,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "顾雍",
+            "group": 10,
+            "qz": 416,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "蔡夫人",
+            "group": 10,
+            "qz": 416,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "公孙渊",
+            "group": 10,
+            "qz": 416,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "张宝",
+            "group": 10,
+            "qz": 416,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "满宠",
+            "group": 10,
+            "qz": 416,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "简雍",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "朱然",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "刘协",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "SP蔡文姬",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "大乔小乔",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "蒋琬费祎",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "夏侯氏",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "孙休",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "臧霸",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "糜夫人",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "朱治",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "陈武董袭",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "郭图逢纪",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "全琮",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "张嶷",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/337.png"
+        },
+        {
+            "name": "曹叡",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "刘谌",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/335.png"
+        },
+        {
+            "name": "SP黄月英",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "蹋顿",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "张鲁",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "糜竺",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "严白虎",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "郭皇后",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "黄皓",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "吕岱",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "刘繇",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/460.png"
+        },
+        {
+            "name": "樊稠",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/442.png"
+        },
+        {
+            "name": "卫温&诸葛直",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "李傕郭汜",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/32078_1.png"
+        },
+        {
+            "name": "卞夫人",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "辛宪英",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "李严",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "刘虞",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "马忠",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "孙登",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界张飞",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界赵云",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界许褚",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界郭嘉",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界关羽",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界吕蒙",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界庞统",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界吕布",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界庞德",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "界伊籍",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "杜畿",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/447.png"
+        },
+        {
+            "name": "潘濬",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/407.png"
+        },
+        {
+            "name": "邓芝",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "吕虔",
+            "group": 11,
+            "qz": 79,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "吕范",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "糜芳傅士仁",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "孟达",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "董昭",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "唐咨",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "傅肜",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "张恭",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "吕凯",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "杨仪",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "董承",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界潘璋马忠",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "胡车儿",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界顾雍",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界夏侯渊",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界诸葛亮",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "蒋钦",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "张任",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "曹节",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "蒋钦 ",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界颜良文丑",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界黄月英",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "严颜",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "SP太史慈",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "孙亮",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "卢植",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "张济",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界貂蝉",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "许贡",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "张翼",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "丁原",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "刘琦",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "曹休",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "董白",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "赵统赵广",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界孙权",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "李通",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "星张郃",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界满宠",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界郭淮",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "华歆",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "界周仓",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "孙资刘放",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "关银屏",
+            "group": 13,
+            "qz": 34,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "沮授",
+            "group": 15,
+            "qz": 23,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "左慈",
+            "group": 16,
+            "qz": 46,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "杨修",
+            "group": 17,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "陈琳",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+
+        {
+            "name": "戏志才",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "孙皓",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/410.png"
+        },
+        {
+            "name": "士燮",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/345.png"
+        },
+        {
+            "name": "董允",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/345.png"
+        },
+        {
+            "name": "王平",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/345.png"
+        },
+        {
+            "name": "刘晔",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/345.png"
+        },
+
+        {
+            "name": "张让",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/345.png"
+        },
+        {
+            "name": "麹义",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/374.png"
+        },
+        {
+            "name": "关索",
+            "group": 18,
+            "qz": 4,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/374.png"
+        },
+        {
+            "name": "赵襄",
+            "group": 19,
+            "qz": 9,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/374.png"
+        },
+        {
+            "name": "张星彩",
+            "group": 19,
+            "qz": 9,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/374.png"
+        },
 
 
 
