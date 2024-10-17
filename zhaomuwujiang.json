@@ -3,38 +3,82 @@
         0,
         36,
         39,
-        43
+        43,
+        46,
+        50,
+        60,
+        65,
+        69,
+        74,
+        88,
+        91,
+        97,
+        100,
+        100,
+        101,
+        101,
+        102
     ],
     "prize": [
         {
             "name": "典韦",
             "group": 0,
             "qz": 153,
-            "icon": "\/static\/620046.png"
+            "icon": "/static/620046.png"
         },
         {
-            "name": "典韦",
+            "name": "曹洪",
             "group": 0,
             "qz": 153,
-            "icon": "\/static\/620046.png"
+            "icon": "/static/620046.png"
         },
         {
-            "name": "典韦",
+            "name": "马超",
             "group": 0,
             "qz": 153,
-            "icon": "\/static\/620046.png"
+            "icon": "/static/620046.png"
         },
         {
-            "name": "典韦",
+            "name": "麹义",
             "group": 0,
             "qz": 153,
-            "icon": "\/static\/620046.png"
+            "icon": "/static/620046.png"
         },
         {
-            "name": "典韦",
-            "group": 3,
-            "qz": 153,
-            "icon": "\/static\/620046.png"
+            "name": "邓艾",
+            "group": 1,
+            "qz": 102,
+            "icon": "/static/620046.png"
+        },
+        {
+            "name": "荀攸",
+            "group": 1,
+            "qz": 102,
+            "icon": "/static/620046.png"
+        },
+        {
+            "name": "SP孙尚香",
+            "group": 2,
+            "qz": 79,
+            "icon": "/static/620046.png"
+        },
+        {
+            "name": "高顺",
+            "group": 6,
+            "qz": 327,
+            "icon": "/static/620046.png"
+        },
+        {
+            "name": "张星彩",
+            "group": 11,
+            "qz": 416,
+            "icon": "/static/620046.png"
+        },
+        {
+            "name": "袁绍",
+            "group": 7,
+            "qz": 724,
+            "icon": "/static/620046.png"
         }
     ]
 }
