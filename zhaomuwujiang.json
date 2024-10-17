@@ -199,13 +199,19 @@
         }
         ,
         {
-            "name": "————",
+            "name": "曹植",
             "group": 2,
             "qz": 102,
-            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/151.png"
+        },
+        {
+            "name": "高顺",
+            "group": 2,
+            "qz": 102,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/152.png"
         }
 
-        
+
 
 
 
