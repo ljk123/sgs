@@ -115,6 +115,97 @@
             "group": 1,
             "qz": 100,
             "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/48.png"
+        },
+        {
+            "name": "张郃",
+            "group": 1,
+            "qz": 100,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/50.png"
+        },
+        {
+            "name": "邓艾",
+            "group": 1,
+            "qz": 100,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/51.png"
+        },
+        {
+            "name": "姜维",
+            "group": 1,
+            "qz": 100,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/52.png"
+        },
+        {
+            "name": "刘禅",
+            "group": 1,
+            "qz": 100,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/53.png"
+        },
+        {
+            "name": "张昭张纮",
+            "group": 1,
+            "qz": 100,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/55.png"
+        },
+        {
+            "name": "界公孙瓒",
+            "group": 1,
+            "qz": 100,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/529.png"
+        },
+        {
+            "name": "SP孙尚香",
+            "group": 1,
+            "qz": 100,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/103.png"
+        },
+        {
+            "name": "SP马超",
+            "group": 2,
+            "qz": 102,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
+        },
+        {
+            "name": "SP贾诩",
+            "group": 2,
+            "qz": 102,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/110.png"
+        }
+        ,
+        {
+            "name": "曹洪",
+            "group": 2,
+            "qz": 102,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/114.png"
+        }
+        ,
+        {
+            "name": "祖茂",
+            "group": 2,
+            "qz": 102,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/125.png"
+        }
+        ,
+        {
+            "name": "何太后",
+            "group": 2,
+            "qz": 102,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/131.png"
+        }
+
+
+
+        
+        
+        
+        
+        
+        
+        ,
+        {
+            "name": "SP马超",
+            "group": 2,
+            "qz": 102,
+            "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/107.png"
         }
     ]
 }
