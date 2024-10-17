@@ -5,36 +5,38 @@
         "onsale": 1,
         "total": 10000,
         "price": 100,
-        "jackpot": {
-            "hero": [
-                {
-                    "name": "谋周瑜1",
-                    "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-                },
-                {
-                    "name": "谋周瑜2",
-                    "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-                },
-                {
-                    "name": "谋周瑜3",
-                    "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-                }
-            ],
-            "skin": [
-                {
-                    "name": "谋周瑜4",
-                    "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-                },
-                {
-                    "name": "谋周瑜5",
-                    "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-                },
-                {
-                    "name": "谋周瑜6",
-                    "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
-                }
-            ]
-        },
+        "jackpot": [
+            {
+                "name": "谋周瑜1",
+                "type": "hero",
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            },
+            {
+                "name": "谋周瑜2",
+                "type": "hero",
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            },
+            {
+                "name": "谋周瑜3",
+                "type": "hero",
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            },
+            {
+                "name": "谋周瑜4",
+                "type": "skin",
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            },
+            {
+                "name": "谋周瑜5",
+                "type": "skin",
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            },
+            {
+                "name": "谋周瑜6",
+                "type": "skin",
+                "icon": "https:\/\/gitee.com\/l2c\/sgs\/raw\/master\/headimg\/610.png"
+            }
+        ],
         "prize": [
             {
                 "name": "精品武将",
