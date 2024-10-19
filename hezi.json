@@ -5,7 +5,6 @@
         "onsale": 1,
         "total": 20000,
         "price": 200,
-        "dw": "庆典礼盒",
         "mustPrize": [
             {
                 "name": "将魂",
