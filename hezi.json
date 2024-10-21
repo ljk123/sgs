@@ -2,7 +2,7 @@
     {
         "name": "庆典礼盒",
         "tips": "2024年假日活动首发，后续请关注每周限时活动",
-        "onsale": 1,
+        "onsale": 0,
         "total": 20000,
         "price": 200,
         "mustPrize": [
